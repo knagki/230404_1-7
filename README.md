@@ -170,6 +170,7 @@ public class Bj18 {
 }
 ```
 5. 2525번
+```java
 package bj2;
 
 import java.io.BufferedReader;
